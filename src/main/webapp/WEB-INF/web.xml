@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app version="3.0"
+         xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd"
+         xmlns="http://java.sun.com/xml/ns/javaee"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+    <filter>
+        <filter-name>sitemesh</filter-name>
+        <filter-class>com.opensymphony.module.sitemesh.filter.PageFilter</filter-class>
+    </filter>
+    <filter-mapping>
+        <filter-name>sitemesh</filter-name>
+        <url-pattern>/*</url-pattern>
+    </filter-mapping>
+
+    <filter>
+        <filter-name>authorization</filter-name>
+        <filter-class>com.movie.filter.AuthorizationFilter</filter-class>
+    </filter>
+    <filter-mapping>
+        <filter-name>authorization</filter-name>
+        <url-pattern>/*</url-pattern>
+    </filter-mapping>
+
+    <filter>
+        <filter-name>initMenu</filter-name>
+        <filter-class>com.movie.utils.InitMenu</filter-class>
+    </filter>
+    <filter-mapping>
+        <filter-name>initMenu</filter-name>
+        <url-pattern>/*</url-pattern>
+    </filter-mapping>
+
+    <welcome-file-list>
+        <welcome-file>index.jsp</welcome-file>
+    </welcome-file-list>
+    <session-config><tracking-mode>COOKIE</tracking-mode></session-config>
+
+<!--    <error-page>-->
+<!--        &lt;!&ndash; Missing login &ndash;&gt;-->
+<!--        <error-code>401</error-code>-->
+<!--        <location>/error</location>-->
+<!--    </error-page>-->
+<!--    <error-page>-->
+<!--        &lt;!&ndash; Forbidden directory listing &ndash;&gt;-->
+<!--        <error-code>403</error-code>-->
+<!--        <location>/error</location>-->
+<!--    </error-page>-->
+<!--    <error-page>-->
+<!--        &lt;!&ndash; Missing resource &ndash;&gt;-->
+<!--        <error-code>404</error-code>-->
+<!--        <location>/error</location>-->
+<!--    </error-page>-->
+<!--    <error-page>-->
+<!--        &lt;!&ndash; Uncaught exception &ndash;&gt;-->
+<!--        <error-code>500</error-code>-->
+<!--        <location>/error</location>-->
+<!--    </error-page>-->
+<!--    <error-page>-->
+<!--        &lt;!&ndash; Unsupported servlet method &ndash;&gt;-->
+<!--        <error-code>503</error-code>-->
+<!--        <location>/error</location>-->
+<!--    </error-page>-->
+</web-app>

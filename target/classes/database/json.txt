@@ -1,0 +1,31 @@
+{
+    "name":"Tây hành kỉ",
+    "thumbnail":"http://images.vkool.tv/fposter/thumb/movies/BSW0dgv.jpg",
+    "banner":"http://images.vkool.tv/vkoolsnap/upload/movies/vQCBnAs.jpg",
+    "descreption":"Tây Hành Kỷ: Tạm Biệt Ngộ Không VietSub, Tây Hành Kỷ: Tạm Biệt Ngộ Không Thuyết Minh, Tây Hành Kỷ: Tạm Biệt Ngộ Không Bản Đẹp, Phụ đề Tây Hành Kỷ: Tạm Biệt Ngộ Không Goodbye Monkey King VietSub, Goodbye Monkey King Thuyết Minh, Goodbye Monkey King Bản Đẹp, Phụ Đề Goodbye Monkey King Tây Hành Kỷ: Tạm Biệt Ngộ Không v1vn, Tây Hành Kỷ: Tạm Biệt Ngộ Không phim3s, Tây Hành Kỷ: Tạm Biệt Ngộ Không phim47, Tây Hành Kỷ: Tạm Biệt Ngộ Không hdonline, Tây Hành Kỷ: Tạm Biệt Ngộ Không phimmoi, Tây Hành Kỷ: Tạm Biệt Ngộ Không phimbathu, Tây Hành Kỷ: Tạm Biệt Ngộ Không phimhayso, Tây Hành Kỷ: Tạm Biệt Ngộ Không phim7, Tây Hành Kỷ: Tạm Biệt Ngộ Không mphim, Tây Hành Kỷ: Tạm Biệt Ngộ Không phimhd, Tây Hành Kỷ: Tạm Biệt Ngộ Không phimnhanh, Tây Hành Kỷ: Tạm Biệt Ngộ Không phimf, Tây Hành Kỷ: Tạm Biệt Ngộ Không phimvang, Tây Hành Kỷ: Tạm Biệt Ngộ Không kst, Tây Hành Kỷ: Tạm Biệt Ngộ Không kites, Tây Hành Kỷ: Tạm Biệt Ngộ Không phim4d, Tây Hành Kỷ: Tạm Biệt Ngộ Không phim4g, Tây Hành Kỷ: Tạm Biệt Ngộ Không vuaphim, Tây Hành Kỷ: Tạm Biệt Ngộ Không hayghe, Tây Hành Kỷ: Tạm Biệt Ngộ Không topphim, Tây Hành Kỷ: Tạm Biệt Ngộ Không phim88, Tây Hành Kỷ: Tạm Biệt Ngộ Không xuongphim, Goodbye Monkey King DVDRIP, Goodbye Monkey King 720p BluRay x264 Tây Hành Kỷ: Tạm Biệt Ngộ Không Tập 1, Tây Hành Kỷ: Tạm Biệt Ngộ Không Tập 2, Tây Hành Kỷ: Tạm Biệt Ngộ Không Tập 3, Tây Hành Kỷ: Tạm Biệt Ngộ Không Tập 4, Tây Hành Kỷ: Tạm Biệt Ngộ Không Tập 5,Goodbye Monkey King Episode 1, Goodbye Monkey King Episode 2, Goodbye Monkey King Episode 3, Goodbye Monkey King Episode 4, Goodbye Monkey King Episode 5,",
+    "duration":"120",
+    "active": 1,
+    "dateAired":"2021-02-03",
+    "quality":"1",
+    "actor":"Đang cập nhật",
+    "movieDetail":[
+        {
+            "episode": 1,
+            "url": "https://www.youtube.com/watch?v=0tQzKegvtj4&ab_channel=%C4%91%E1%BA%B7ngph%C3%BAtv"
+        }
+    ],
+    "categoryItem":[
+                {
+            "categoryName": "Phim hành động",
+            "url": "phim-hanh-dong"
+        },
+                {
+            "categoryName": "Phim hài",
+            "url": "phim-hai"
+        },
+                {
+            "categoryName": "Phim trung quốc",
+            "url": "phim-trung-quoc"
+        }
+    ]
+}
